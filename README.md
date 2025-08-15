@@ -27,7 +27,7 @@
 
 3. **Meta Marketing Analytics Professional Certificate** – Meta *(Jul 2025)*  
    *Credential ID:* `NXSIJV8VMPR8`  
-   [View Certificate](https://coursera.org/share/f6bf2262d17a4ce55d434aea818fb7c7)  
+   [View Certificate](https://www.coursera.org/account/accomplishments/specialization/NXSIJV8VMPR8)  
 
 4. **Certificate of Participation – Concept Note Submission, Road Safety Hackathon** – Unstop *(Apr 2025)*  
    *Credential ID:* `60897866-d64b-42dd-8b85-ee10ac7f9b97`  
@@ -35,7 +35,7 @@
 
 5. **Work Smarter with Microsoft Excel** – Microsoft *(Dec 2024)*  
    *Credential ID:* `1O9W1G4GJP11`  
-   [View Certificate](https://www.credly.com/badges/6856d3c5-c00a-42fa-b3ef-4ae80b912369/public_url)  
+   [View Certificate](https://coursera.org/verify/1O9W1G4GJP11)  
    Skills: Microsoft Excel  
 
 6. **Complete Python Bootcamp: From Zero to Hero in Python** – Udemy *(Nov 2024)*  
@@ -48,18 +48,20 @@
    [View Certificate](https://www.theforage.com/)  
    Skills: Data Analysis  
 
-8. **Google Data Analytics Professional Certification (Partial Completion – 3/8 Courses)** – Google *(Jul 2024)*  
+8. **Google Data Analytics Professional Certification (Partial Completion – 3/8 Courses)** – Google *(Jul 2024)*
+   [View Certificate](https://coursera.org/share/f6bf2262d17a4ce55d434aea818fb7c7)
    Skills: Data Analysis, Microsoft Office, Microsoft Excel, Analytical Skills  
 
-9. **Data Analytics Essentials** – Cisco Networking Academy *(Jul 2024)*  
+10. **Data Analytics Essentials** – Cisco Networking Academy *(Jul 2024)*
+   [View Certificate](https://www.credly.com/badges/6856d3c5-c00a-42fa-b3ef-4ae80b912369/public_url)
    Skills: Analytical Skills, Data Analysis, Microsoft Excel  
 
-10. **Entrepreneurship: From Business Idea to Action** – King’s College London *(Aug 2023)*  
+12. **Entrepreneurship: From Business Idea to Action** – King’s College London *(Aug 2023)*  
 
-11. **Business Finance Foundations** – Great Learning *(Jul 2023)*  
+13. **Business Finance Foundations** – Great Learning *(Jul 2023)*  
     Skills: Financial Analysis  
 
-12. **Fundamentals of Digital Marketing** – Google Digital Garage *(Jul 2023)*  
+14. **Fundamentals of Digital Marketing** – Google Digital Garage *(Jul 2023)*  
     *Credential ID:* `JNN 538 52T`  
     [View Certificate](https://skillshop.exceedlms.com/student/award/HSqS3cMtNda69gWQZFVqEw3W?id=181386904)  
 
